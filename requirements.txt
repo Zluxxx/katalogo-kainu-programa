@@ -1,6 +1,0 @@
-streamlit
-pymupdf
-pandas
-openpyxl
-pillow
-xlrd>=2.0.1
